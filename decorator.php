@@ -78,6 +78,6 @@ $oil = new OilChange($basic);
 echo $oil->getMessage(). ' : ' . $oil->getCost() . '<br>';
 
 $tire = new TireRotation($basic);
-echo $tire->getMessage(). ' : ' . $tire->getCost() . '<br> ';
+echo $tire->getMessage(). ' : ' . $tire->getCost() . '<br>';
 
 
